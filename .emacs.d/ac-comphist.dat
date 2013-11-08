@@ -1,0 +1,142 @@
+((("prev-prod" .
+   [0 0 0 0 0 0 0 0 1])
+  ("done" .
+   [1 0 0 0])
+  ("./p-all/" .
+   [0 0 0 0 0 0 0 2])
+  ("dtype" .
+   [0 0 0 0 1])
+  ("C-tab" .
+   [1 0 0 0 0])
+  ("getTextContent" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("setText" .
+   [0 0 0 0 0 0 1])
+  ("AnimateThread" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("bitmap_print_solution" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("global_edakari_top" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 8 2])
+  ("global_edakari_" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("solution" .
+   [0 0 0 0 0 0 0 1])
+  ("global_leftbit" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("global_edakari_bottom" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("global_edakari_side" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Display" .
+   [0 0 0 0 0 0 3])
+  ("global_mask" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("global_edakari_corner" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("global_sibakari_corner" .
+   [0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("return" .
+   [0 0 0 0 0 1])
+  ("MAX_SIZE" .
+   [0 0 0 0 1 0 0 0])
+  ("INFO" .
+   [0 0 0 1])
+  ("bitmap_nqueens_kadai5_sub" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("global_" .
+   [0 0 0 0 0 0 6])
+  ("global_n" .
+   [0 0 0 0 0 0 0 5])
+  ("global_size" .
+   [0 0 0 0 0 0 0 2 0 0 1])
+  ("SIZE" .
+   [0 0 0 1])
+  ("corner" .
+   [0 0 0 0 0 1])
+  ("COUNT8" .
+   [0 0 1 0 0 0])
+  ("print_solution_kadai4" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lu_left_looking_kadai3_args" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("printf" .
+   [0 0 0 0 0 8])
+  ("wait_and_signal_progress2" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("let" .
+   [0 0 1])
+  ("message" .
+   [0 0 0 0 0 0 1])
+  ("defun" .
+   [1 0 0 0 0])
+  ("lu_left_looking_kadai2" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pthread" .
+   [1 0 0 0 0 0 0])
+  ("status" .
+   [0 0 0 0 0 1])
+  ("double" .
+   [0 0 0 0 0 1])
+  ("barrier_sync" .
+   [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("global_P" .
+   [0 0 0 0 0 0 0 7])
+  ("proc" .
+   [0 0 0 1])
+  ("print_a" .
+   [0 0 0 0 0 1 0])
+  ("print" .
+   [0 0 0 0 1])
+  ("print_solution" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 1])
+  ("g_dflag" .
+   [0 0 0 0 0 0 7])
+  ("result" .
+   [0 0 0 0 0 2])
+  ("MyGraphics" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("original" .
+   [0 0 0 0 0 0 0 2])
+  ("Width" .
+   [0 0 0 0 1])
+  ("Height" .
+   [0 0 0 0 0 2])
+  ("listelem" .
+   [0 0 0 0 0 0 0 3])
+  ("ActionListener" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 2])
+  ("_func" .
+   [0 0 1 0 1])
+  ("getContentPane" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("MAX_PROGRAM" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("DRUMS_CHANNEL_NO" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("DRUMS_PROGRAM" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getTotalClass" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("outdir" .
+   [0 0 0 0 0 1])
+  ("System" .
+   [0 0 0 0 0 1])
+  ("println" .
+   [0 0 0 0 0 0 1])
+  ("length" .
+   [0 0 0 0 0 1])
+  ("FILE" .
+   [0 0 0 1])
+  ("getLength" .
+   [0 0 0 0 1 0 0 0 0])
+  ("getElementsByTagName" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("xpath" .
+   [0 0 0 0 1])
+  ("tmpfile" .
+   [0 0 0 0 0 0 1])
+  ("int" .
+   [1 0 0])
+  ("char" .
+   [1 0 0 0])))
